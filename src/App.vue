@@ -31,7 +31,7 @@ export default {
       existTribe: false,
       inputValue: '',
       isFocused: false,
-      followWorker: 'Ариза'
+      followWorker: 'Бетуганова Ариза Аубекировна'
     }
   },
   computed: {

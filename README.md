@@ -1,4 +1,4 @@
-# adiga-ethnos
+# best-follow-worker
 
 ## Project setup
 ```
